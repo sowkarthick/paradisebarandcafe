@@ -1,0 +1,57 @@
+Delicio
+http://www.wpzoom.com/themes/delicio
+
+CHANGELOG
+---------
+
+v 1.0.9 (February 24, 2018)
+
+    - Fixed a minor bug with WooCommerce 3.3
+
+
+v 1.0.8 (December 12, 2017)
+
+    - Fixed a minor bug with mobile navigation
+
+
+v 1.0.7 (June 15, 2017)
+
+    - Added new widget in Unyson Page Builder - Blog Posts
+
+
+v 1.0.6 (April 10, 2017)
+
+    - /functions/customizer/helpers-fonts.php - Updated list with Google Fonts
+
+
+v 1.0.5 (April 7, 2017)
+
+    - Added support for WooCommerce 3.0.0
+
+
+v 1.0.4 (November 22, 2016)
+
+    - wpml-config.xml - added WPML support for Food Menus
+
+
+v 1.0.3 (August 28, 2016)
+
+    - /woocommerce/content-product.php - minor WooCommerce bug fixed
+
+
+v 1.0.2 (August 8, 2016)
+
+    - minor bug fixes
+    - modified files:
+        - /framework-customizations/extensions/shortcodes/text-block/options.php
+        - /page-templates/nova-menu.php
+
+
+v 1.0.1 (August 1, 2016)
+
+    - /functions/functions.php - bug fix in old PHP versions
+
+
+v 1.0 (April 29, 2016)
+
+	- initial release

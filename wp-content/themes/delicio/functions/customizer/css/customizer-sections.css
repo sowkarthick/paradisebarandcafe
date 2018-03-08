@@ -1,0 +1,42 @@
+/* Range control styles */
+li.customize-control.customize-control-range .wpzoom-theme-control-range {
+    float: left;
+    width: 25%;
+}
+li.customize-control.customize-control-range .wpzoom-theme-range-slider {
+    float: right;
+    width: 70%;
+    margin-top: 8px;
+}
+li.customize-control.customize-control-range .ui-slider-handle {
+    top: -.4em;
+    border-color: #777;
+    background: #777;
+}
+li.customize-control.customize-control-range .ui-slider-horizontal {
+    height: .6em;
+    border-color: #fff;
+    background: #fff;
+}
+
+li.customize-control.customize-control-range .ui-slider-handle {
+    border-radius: 100%;
+}
+li.customize-control.customize-control-range .ui-slider-handle:hover {
+    cursor: pointer;
+}
+li.customize-control-checkbox label {
+    font-weight: bold;
+}
+li.customize-control-checkbox label .description {
+    font-weight: normal;
+}
+
+/* jQuery UI theme tweaks */
+.ui-widget {
+    font-family: inherit;
+    font-size: 0.85em;
+}
+.ui-button-text-only .ui-button-text {
+    padding: 0;
+}

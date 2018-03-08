@@ -1,0 +1,11 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">slider</custom-type>
+        <custom-type translate="1">nova_menu_item</custom-type>
+     </custom-types>
+    <custom-fields>
+        <custom-field action="translate">wpzoom_slide_url</custom-field>
+        <custom-field action="translate">wpzoom_slide_button_title</custom-field>
+        <custom-field action="translate">wpzoom_slide_button_url</custom-field>
+    </custom-fields>
+</wpml-config>
